@@ -1,10 +1,10 @@
-Fishing Assistant Chat App
+
 <img width="341" alt="Знімок екрана 2024-09-26 о 18 10 30" src="https://github.com/user-attachments/assets/102a89ba-60a9-42db-bfd6-c9fdf605ff50">
 <img width="324" alt="Знімок екрана 2024-09-26 о 17 50 33" src="https://github.com/user-attachments/assets/a842c333-d5b5-4155-af86-cc5ba2450590">
 <img width="336" alt="Знімок екрана 2024-09-26 о 17 35 07" src="https://github.com/user-attachments/assets/edc8839f-f295-443d-959d-e417497cfebd">
 
 
-
+Fishing Assistant Chat App
 
 Welcome to the Fishing Assistant Chat App, a unique mobile application designed to enhance the fishing experience by connecting fishermen with an AI-powered assistant. This app serves as a virtual companion for anglers, offering personalized advice, tips, and insights based on user queries.
 
