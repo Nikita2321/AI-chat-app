@@ -1,9 +1,8 @@
 Fishing Assistant Chat App
+<img width="341" alt="Знімок екрана 2024-09-26 о 18 10 30" src="https://github.com/user-attachments/assets/102a89ba-60a9-42db-bfd6-c9fdf605ff50">
+<img width="324" alt="Знімок екрана 2024-09-26 о 17 50 33" src="https://github.com/user-attachments/assets/a842c333-d5b5-4155-af86-cc5ba2450590">
+<img width="336" alt="Знімок екрана 2024-09-26 о 17 35 07" src="https://github.com/user-attachments/assets/edc8839f-f295-443d-959d-e417497cfebd">
 
-
-<img width="336" alt="Знімок екрана 2024-09-26 о 17 35 07" src="https://github.com/user-attachments/assets/a85020c8-527f-40d3-9708-1b5e19511f14">
-<img width="324" alt="Знімок екрана 2024-09-26 о 17 50 33" src="https://github.com/user-attachments/assets/1992d5ad-8ab0-4e87-ac70-cc18f178b195">
-<img width="341" alt="Знімок екрана 2024-09-26 о 18 10 30" src="https://github.com/user-attachments/assets/30e39ac8-17cd-4217-b6c8-722bffc9fd38">
 
 
 
@@ -13,7 +12,7 @@ Features AI-Powered Conversations: Engage in natural, intuitive conversations wi
 
 Flutter: For building the cross-platform mobile app. OpenAI API: To power the AI-driven conversation, enabling rich, meaningful interactions. HTTP Package: To handle network requests and responses seamlessly. Getting Started Clone the repository:
 
-bash git clone https://github.com/Nikita2321/fishing-assistant-chat-app.git Navigate to the project directory:
+bash git clone https://github.com/Nikita2321/AI-chat-app/tree/main?tab=readme-ov-file Navigate to the project directory:
 
 bash cd fishing-assistant-chat-app Install dependencies:
 
